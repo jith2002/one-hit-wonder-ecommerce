@@ -113,4 +113,4 @@ Download the Olist dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr
 
 Built by Ranjith Kumar T M — Data Analyst with experience in fraud/risk operations (Fi Money) and supply chain analytics (Target Corporation India).
 
-[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/jith2002)
+[LinkedIn](https://www.linkedin.com/in/ranjith-kumar-t-m/) | [GitHub](https://github.com/jith2002)
