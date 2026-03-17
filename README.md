@@ -1,9 +1,8 @@
+# The One-Hit Wonder Problem
+### Why Most E-Commerce Products Sell Once and Disappear
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![pandas](https://img.shields.io/badge/pandas-2.2.2-lightgrey)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
-
-# The One-Hit Wonder Problem
-### Why Most E-Commerce Products Sell Once and Disappear
 
 ---
 
