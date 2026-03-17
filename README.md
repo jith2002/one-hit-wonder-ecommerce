@@ -1,9 +1,9 @@
-# The One-Hit Wonder Problem
-### Why Most E-Commerce Products Sell Once and Disappear
-
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![pandas](https://img.shields.io/badge/pandas-2.2.2-lightgrey)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
+
+# The One-Hit Wonder Problem
+### Why Most E-Commerce Products Sell Once and Disappear
 
 ---
 
@@ -21,7 +21,7 @@ The question isn't why they got bad reviews. Most of them got decent reviews. Th
 
 ## What Surprised Me
 
-I went into this expecting boring, low-engagement products to show stable, predictable demand — the kind of slow trickle that inventory planners quietly rely on. The data said otherwise. One-hit wonders aren't just low-sellers. They're actually more expensive than survivors, and their review scores are nearly identical. That was the moment the project changed direction entirely — and became more interesting for it.
+I went into this expecting boring, low-reviewed products to be the stable sellers — quiet workhorses that trickle sales consistently. The data proved that completely wrong. One-hit wonders actually had slightly better review scores and higher average prices than survivors. That was the moment the project changed direction entirely. The real story wasn't about product quality at all.
 
 ---
 
@@ -57,13 +57,13 @@ The long tail theory suggests that low-selling products collectively generate si
 ## Visuals
 
 ### One-Hit Wonder Rate by Category
-![One-Hit Wonder Rate by Category](one_hit_wonder_by_category.png)
+![Category chart](one_hit_wonder_by_category.png)
 
 ### What Separates Survivors From One-Hit Wonders?
-![Survivor vs One-Hit Wonder](survivor_vs_onehit.png)
+![Survivor vs one-hit wonder](survivor_vs_onehit.png)
 
 ### The Flywheel Effect: Monthly Order Volume Over Time
-![Flywheel Effect](flywheel_effect.png)
+![Flywheel chart](flywheel_effect.png)
 
 ---
 
@@ -113,4 +113,4 @@ Download the Olist dataset from [Kaggle](https://www.kaggle.com/datasets/olistbr
 
 Built by Ranjith Kumar T M — Data Analyst with experience in fraud/risk operations (Fi Money) and supply chain analytics (Target Corporation India).
 
-[LinkedIn](https://www.linkedin.com/in/ranjith-kumar-t-m/) | [GitHub](https://github.com/jith2002)
+[LinkedIn](https://linkedin.com/in/ranjith-kumar-t-m) | [GitHub](https://github.com/jith2002)
